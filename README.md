@@ -20,6 +20,12 @@ On the right hand side you can see the graph. This uses a API that shows the con
 
 As for the design we choose to keep it simple when discussing such sensitive medical data on a more somber, but useful, topic. 
 
+## Authors
 
+* **james chukwu** 
 
+- [Link to Portfolio Site](https://okingiboy.github.io/developer-profile-html-css-js-git-james/)
 
+- [Link to Github](https://github.com/Okingiboy)
+
+- [Link to LinkedIn](https://www.linkedin.com/in/james-chukwu-238b3446/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEHZLwPjTTfGgZGF1o%2FlQ%2Bg%3D%3D)
